@@ -1,7 +1,7 @@
 # Python
 ## Numbers
 | No.| Content| Link|
-|:---|:---:|:---:|
+|:---|:---|:---:|
 |[]|Print First N Natural Numbers in reverse Order|[📂](https://github.com/Har8899/Python/edit/main/README.md)|
 |[]|Sum of First N Natural numbers|[📂]|
 |[]|Sum of numbers in a given range|[📂]|
