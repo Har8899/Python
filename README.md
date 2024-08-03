@@ -13,3 +13,37 @@
 |✔|Reverse a Number|[📂](100Numbers/09Problem.py)|
 |✔|Reverse a Number Part 2|[📂](100Numbers/10Problem.py)|
 |✔|Program to check if a number is palindrome or not|[📂](100Numbers/11Problem.py)|
+
+
+## Advance Numbers
+
+Armstrong Number Implimentation 
+Armstrong Numbers in a given Range
+Program to print Prime Factors of a Number
+HCF/GCD of two numbers
+Lcm Of Two Numbers Part 1 
+LCM of two numbers Part 2
+Theory of Numbers and their Forms
+Binary to Decimal Conversion
+Octal to Decimal Coversion
+HexaDecimal to Decimal Conversion
+Decimal to Binary Conversion
+Decimal to Octal Conversion
+Decimal to HexaDecimal Conversion 
+
+## Arrays
+
+Linear Search
+Smallest Element in an Array
+Find second smallest element in an Array
+Bubble Sort Theory
+Counting Distinct Elements in an Array Part 1
+Counting Distinct Elements in an Array Part 2
+Counting Distinct Elements in an Array Part 3
+kth Smallest Element in an Array
+Finding the Frequency of elements in an Array
+
+
+
+
+
