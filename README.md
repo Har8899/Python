@@ -15,7 +15,7 @@
 |✔|Program to check if a number is palindrome or not|[📂](100Numbers/11Problem.py)|
 
 
-## Advance Numbers
+## ✅ Advance Numbers
 
 Armstrong Number Implimentation 
 Armstrong Numbers in a given Range
