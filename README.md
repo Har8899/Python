@@ -31,7 +31,7 @@ Decimal to Binary Conversion
 Decimal to Octal Conversion
 Decimal to HexaDecimal Conversion 
 
-## Arrays
+## ✅Arrays
 
 Linear Search
 Smallest Element in an Array
